@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class FarmManagementSystem {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Farm farm = new Farm();
