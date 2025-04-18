@@ -48,7 +48,7 @@ public abstract class Animal {
         return weight_in_kg;
     }
 
-    public void setWeight(double weight) {
-        this.weight_in_kg = weight;
+    public void setWeight(double weight_in_kg) {
+        this.weight_in_kg = weight_in_kg;
     }
 }
